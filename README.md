@@ -78,10 +78,7 @@ PNR Number     Passenger Name     Coach   Berth        Final Status
 * File Write Permissions: File-handling processes utilize automated platform evaluation methods (os.path.expanduser) to ensure proper write execution rules across Unix, macOS, and Windows operating systems.
 
 ------------------------------
-If you need any adjustments for your submission, please let me know:
 
-* Would you like me to create a Project Index page or a Table of Contents to structure your final report folder?
-* Do you want to include a Software Test Case Matrix with specific test scenarios (like successful login, validation failures, or automatic waitlist confirmation)?
 
 
 
